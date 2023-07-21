@@ -1,13 +1,23 @@
-// Category View
-
 .category-header {
-
-  // category view styles from example
-
+  text-align: center;
+  margin: 2rem 0;
+  
+  h1 {
+    margin: 0;
+  }
+  
+  p {
+    color: #aaa;
+    font-size: 0.9rem;
+  }
+  
 }
 
 .category-topic-list {
+
+  .topic-list-item {
+    // Styles
   
-  // category view styles from example
+  }
 
 }
