@@ -3,7 +3,7 @@
   <h3 class="topic-title">{{topic.title}}</h3>
 
   <div class="topic-avatars">
-    {{topic.avatars}}
+    {{topic.avatars}} 
   </div>
 
   <div class="post-count">
