@@ -1,7 +1,32 @@
-// Topic View 
-
 .topic-posts {
 
-  // topic view styles from example
-
+  .post-stream {
+    max-width: 60rem;
+    margin: 0 auto;
+  }
+  
+  .small-action {
+    font-size: 0.9rem;
+    color: #aaa;
+    margin: 1rem 0;
+  }
+  
+  .gap {
+    height: 1rem;
+  }
+  
+  blockquote {
+    padding: 0.5em 1em;
+    border-left: 3px solid #ddd;
+  }
+  
+  .topic-metadata {  
+    margin: 1rem 0;
+    
+    .topic-category {
+      color: #aaa;
+    }
+    
+  }
+  
 }
