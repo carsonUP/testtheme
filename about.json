@@ -1,10 +1,10 @@
 {
   "name": "FBLight",
   "about_url": "https://example.com/fblight",
-  "license_url": null,
+  "license_url": null,  
   "authors": null,
   "theme_version": "1.0",
   "minimum_discourse_version": "1.0.0",
   "assets": {},
-  "color_schemes": {}  
+  "color_schemes": {}
 }
